@@ -1,0 +1,27 @@
+
+body{
+	background: url(images/Earth-planet-black-background-space_5120x2880.jpg);
+	background-size: cover;
+	color: white;
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+.foto-1{
+	text-align: center;
+}
+.text-1{
+	text-align: center;
+}
+
+div{
+	width: 1250px;
+	height: 450px;
+	margin: auto;
+	background-color: 	#141519;
+	opacity: 0.7;
+	border-radius: 15px;
+}
+
+h1{
+	text-align: center;
+	font-size: 55px;
+}
